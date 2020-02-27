@@ -1,0 +1,76 @@
+{
+  "id": 1611868313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2012-05-08~",
+    "edtf:inception": "2012-05-08T13:39:08",
+    "flysfo:airline": "HP",
+    "flysfo:date": "2012-05-08",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "HP1538",
+    "flysfo:journey": "SFO-GSP",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,34.890185,-82.216703,37.617990",
+    "geom:latitude": 36.2540875,
+    "geom:longitude": -102.293823,
+    "iata:airline": "HP",
+    "icao:aircraft": "A321",
+    "icao:airline": "AWE",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289411,
+    "sfomuseum:airline_id": 1159285439,
+    "sfomuseum:arrival_id": 102529929,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20120508-D-AWE-1538",
+    "sfomuseum:flight_number": [
+      "HP1538", 
+      "AWE1538"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85633793, 
+      1611868313, 
+      85688637, 
+      85922583, 
+      1159396333, 
+      102527513, 
+      102191575, 
+      102087579
+    ],
+    "wof:country": "US",
+    "wof:created": 1582829192,
+    "wof:geomhash": "76e368d223cf8df45b0ede59f83622d6",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1611868313,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1611868313,
+    "wof:lastmodified": 1582829192,
+    "wof:name": "AWE1538 (SFO-GSP)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2012",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    34.890185, 
+    -82.216703, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-82.216703,34.890185]],"type":"MultiPoint"}
+}
